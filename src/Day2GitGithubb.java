@@ -15,6 +15,7 @@ Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim 
 kullanırız.
 
 Not:git log --online versiyonlarımdaki durumu gösterir.
+6) git pull -- remote dosyalarınızı güncellemek için kullanılır.
  */
 
 }
